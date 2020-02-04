@@ -37,5 +37,3 @@ BENOIT :
 /Visualisation de la structure des comptes admin et users\
 
 /Mise en place du drive et du rapport de groupe\
-
-/Documentation symfony\
