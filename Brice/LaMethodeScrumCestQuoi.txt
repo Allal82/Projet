@@ -37,7 +37,7 @@ User Story			(Story)
 			-> Choisir un nombre par rapport à l'importance des "Story"
 
 	-> Estimation
-			-> Il faut essayer de determiner la quantité de travail nécessaire pour développer, tester, valider la 					fonctionnalité en travail.
+			-> Il faut essayer de determiner la quantité de travail nécessaire pour développer, tester, valider la fonctionnalité en travail.
 			-> Essayer de trouver la durée idéeale pour réaliser la mise en fonction de la "Story"
 
 	-> Demo
@@ -82,13 +82,13 @@ Le Scrum Meeting
 
 	-> Durant la réunion (Scrum Meeting) on ne cherche pas à résoudre les problèmes, mais de les identifier et les exprimer.
 
-	-> Le Scrum Master a pour rôle d'apporter des solutions ou de déléguer à un autre membre de l'équipe la résolution des problèmes 			soulevés durant le Scrum Meeting
+	-> Le Scrum Master a pour rôle d'apporter des solutions ou de déléguer à un autre membre de l'équipe la résolution des problèmes soulevés durant le Scrum Meeting
 	-> Le Scrum Master devra mettre à jour la Burndown Chart après chaque Scrum Meeting
 
 	
 A la fin de chaque sprint, on fait une démonstration au client des derniers développements, c'est le Sprint Review Meeting.
 	
-	-> Le Sprint Review Meeting permet de faire un bilan sur le Sprint qui vient de se finir, le fonctionnement de l'équipe et de savoir 			quoi changer pour améliorer l'efficacité de l'équipe.
+	-> Le Sprint Review Meeting permet de faire un bilan sur le Sprint qui vient de se finir, le fonctionnement de l'équipe et de savoir quoi changer pour améliorer l'efficacité de l'équipe.
 
 
 Cette méthode prône l'adaptabilité, La visibilité (évaluer les résultats du processus) et l'inspection (qui consiste à vérifier les écarts par rapport à l'objectif initial).
