@@ -24,19 +24,16 @@
   "https://drive.google.com/open?id=1RgVdPWGaqvwlrfaj8I2baTsDW14XNlXE"
 
 
-**BRICE :   
+BRICE :   
 
-  - Fiche Synthèse Scrumm
+Fiche Synthèse Scrumm
 
+ADRIEN :
 
-**ADRIEN :
+ALLAL :
 
+BENOIT :  
 
-**ALLAL :
-
-
-**BENOIT :  
-
-  - Visualisation de la structure des comptes admin et users
-  - Mise en place du drive et du rapport de groupe
-  - Documentation symfony
+Visualisation de la structure des comptes admin et users
+Mise en place du drive et du rapport de groupe
+Documentation symfony
