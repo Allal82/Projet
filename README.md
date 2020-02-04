@@ -24,15 +24,15 @@
   "https://drive.google.com/open?id=1RgVdPWGaqvwlrfaj8I2baTsDW14XNlXE"
 
 
-                  BRICE :   
+=> BRICE :   
 
 / Fiche Synthèse Scrum \
 
-                  ADRIEN :
+=> ADRIEN :
 
-                  ALLAL :
+=> ALLAL :
 
-                  BENOIT :  
+=> BENOIT :  
 
 / Visualisation de la structure des comptes admin et users \
 
