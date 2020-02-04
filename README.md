@@ -4,13 +4,13 @@
 
 - Répartition des tâches :
 
- Benoît -> Mise en place du serveur web / Intégration Infrastructure / Securité / Profils Utilisateurs / Compte Admin
+    Benoît -> Mise en place du serveur web / Intégration Infrastructure / Securité / Profils Utilisateurs / Compte Admin
  
-Brice -> Affichage / Animation3D du Jumeau Numérique avec Three.js
+    Brice -> Affichage / Animation3D du Jumeau Numérique avec Three.js
 
-Adrien -> Gestion BDD / Traitement requêtes / Enregistrement et Lecture sequences jumeau
+    Adrien -> Gestion BDD / Traitement requêtes / Enregistrement et Lecture sequences jumeau
 
-Allal -> Gestion / Traitement flux de données système temps réel
+    Allal -> Gestion / Traitement flux de données système temps réel
 
 - Diagramme de Gantt (ADRIEN) ->  Mise en place du sprint 1 et visualisation des tâches pour le sprint 2.
 
@@ -24,15 +24,19 @@ Allal -> Gestion / Traitement flux de données système temps réel
   "https://drive.google.com/open?id=1RgVdPWGaqvwlrfaj8I2baTsDW14XNlXE"
 
 
-BRICE :   - Fiche Synthèse Scrumm
+**BRICE :   
+
+  - Fiche Synthèse Scrumm
 
 
-ADRIEN :
+**ADRIEN :
 
 
-ALLAL :
+**ALLAL :
 
 
-BENOIT :  - Visualisation de la structure des comptes admin et users
-          - Mise en place du drive et du rapport de groupe
-          - Documentation symfony
+**BENOIT :  
+
+  - Visualisation de la structure des comptes admin et users
+  - Mise en place du drive et du rapport de groupe
+  - Documentation symfony
