@@ -1,0 +1,32 @@
+Flex Things
+
+	Pour le 24 (fin premier sprint) fevrier : 
+		-> Se renseigner sur la Méthode Scrum (vocabulaire etc)
+		-> Préparer le deuxième sprint
+		-> Commencer la synthèse sur le premier sprint (individuel et commun)
+
+Qui fait quoi dans ce premier sprint ?
+	Gantt       -> Adrien
+	Classe      -> Allal
+	Déploiement -> Benoit
+	Package     -> Brice 
+
+Prévisions pour la suite : 
+
+	Brice :  -> three.js
+		 -> Affichage
+		 -> Animation 3D
+
+	Allal :  -> Gestion
+		 -> Traitement
+		 -> Flux de données
+		 -> Système réel
+
+	Benoit : -> Symfony
+		 -> Serveur web
+		 -> Intégration
+		 -> Sécurité
+
+	Adrien : -> Gestion BDD
+		 -> Traitement
+		 -> Requête
