@@ -1,0 +1,28 @@
+Méthode SRCUM
+	-> Backlog 
+		-> Chaque membre suivre une tache a faire.
+			Validation sous 2 semaine par un responsable et les autres membres du groupe.
+
+GitHub 
+	-> 
+
+Simphonie obligatoire pour tout le monde !
+
+Plannification sur Time View:
+	Gantt
+
+Sous CameoSystem (Draw io pour le moment):
+	Diagramme de cas d'utilisation, de classe, de deploiement 
+	Si possible : diagramme de package 
+
+Trheejs.org
+
+
+Travailler uniquement sur la modelisation ! PAS DE CODE ! 
+Lundi 24 :
+	-> Avoir reparti les taches pour le sprint 2
+
+
+
+thierry.boyer@lycee-bourdelle.fr
+joel.moquie@lycee-bourdelle.fr
