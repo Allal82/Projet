@@ -4,10 +4,13 @@
 
 - Répartition des tâches :
 
-    Benoît -> Mise en place du serveur web / Intégration Infrastructure / Securité / Profils Utilisateurs / Compte Admin
-    Brice -> Affichage / Animation3D du Jumeau Numérique avec Three.js
-    Adrien -> Gestion BDD / Traitement requêtes / Enregistrement et Lecture sequences jumeau
-    Allal -> Gestion / Traitement flux de données système temps réel
+ Benoît -> Mise en place du serveur web / Intégration Infrastructure / Securité / Profils Utilisateurs / Compte Admin
+ 
+Brice -> Affichage / Animation3D du Jumeau Numérique avec Three.js
+
+Adrien -> Gestion BDD / Traitement requêtes / Enregistrement et Lecture sequences jumeau
+
+Allal -> Gestion / Traitement flux de données système temps réel
 
 - Diagramme de Gantt (ADRIEN) ->  Mise en place du sprint 1 et visualisation des tâches pour le sprint 2.
 
