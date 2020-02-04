@@ -24,16 +24,16 @@
   "https://drive.google.com/open?id=1RgVdPWGaqvwlrfaj8I2baTsDW14XNlXE"
 
 
-BRICE :   
+                  BRICE :   
 
-/Fiche Synthèse Scrumm\
+/ Fiche Synthèse Scrum \
 
-ADRIEN :
+                  ADRIEN :
 
-ALLAL :
+                  ALLAL :
 
-BENOIT :  
+                  BENOIT :  
 
-/Visualisation de la structure des comptes admin et users\
+/ Visualisation de la structure des comptes admin et users \
 
-/Mise en place du drive et du rapport de groupe\
+/ Mise en place du drive et du rapport de groupe \
