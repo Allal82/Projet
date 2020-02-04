@@ -1,0 +1,94 @@
+							QU'EST CE QUE LA METHODE SCRUM ???
+						    (exemple par rapport au jumeaux numérique)
+
+C'est une méthode agile de "gestion de projet". L'objectif est d' améliorer la productivité de son équipe. 
+		-> Expression technique : 
+			--> C'est un "Framework de management de projet"
+
+Le "cycle de vie" Scrum est rythmé par des itérations de quelques semaines
+		-> Expression technique :
+			--> Les sprints
+
+
+
+Backlog du produit		(Product backlog)
+
+	-> Il faut connaitre quelles fonctionalités le client désire. La demande peu évoluer en même temps que le projet.
+		-> Expression technique :
+			--> Référentiel des exigeances initiales
+
+
+Scrum Master : 
+	-> l'équivalant d'un chef de projet
+
+
+
+User Story			(Story)
+
+	-> ID
+			-> Un identifiant unique
+
+	-> Nom
+			-> Un nom court décrivant la fonction attendue par le client
+			-> !!! Le nom doit être suffisamment clair pour que les membres de l'équipe et le Product Owner comprenne la 					fonction attendue !!! 
+			-> !!! Un nom sans ambiguïtés !!!
+
+	-> Importance
+			-> Choisir un nombre par rapport à l'importance des "Story"
+
+	-> Estimation
+			-> Il faut essayer de determiner la quantité de travail nécessaire pour développer, tester, valider la 					fonctionnalité en travail.
+			-> Essayer de trouver la durée idéeale pour réaliser la mise en fonction de la "Story"
+
+	-> Demo
+			-> Faire un test simple de la "Story". Cela constitue un test de validation
+
+	-> Notes
+			-> Toute information utile (clarifications, références documentaires...)
+
+
+
+Le Sprint Planning Meeting	(Sprint Backlog)
+
+	-> Avant chaque nouveau sprint, une réunion entre membre doit avoir lieu afin de savoir quelles exigeances sont les plus importantes.
+	-> Les fonctions seront : développées, testés et "livrées" à la fin du sprint.
+		-> Expression technique 
+			--> Le Sprint Backlog est un sous ensemble du Product Backlog
+
+La mêlée 			(Scrum)
+
+	-> Chaque jour doit avoir lieu une "réunion d'avancement" d'environ 15 minutes entre les membres de l'équipe. 
+	-> L'objectif étant de s'assurer que les objectifs du sprint seront tenus. c'est le "Scrum" ou la "mêlée".
+
+	-> Le Scrum Master doit alors maintenir un graphique appelé "sprint burndown chart". 
+		Il permet de d'anticiper si toutes les Storys du Sprint Backlog seront terminées à la fin de l'itération ou non...
+
+
+
+Le Scrum Meeting 
+
+	Les buts de cette réunion :
+
+	-> Stimuler l'esprit travail en équipe et le niveau d'engagement de chaque membre de l'équipe dans le projet.
+	-> Chaque membre devra prendre la parole :
+			-> Ce qui a été fait la veille
+			-> Les éventuels problèmes rencontrés
+			-> Ce qui va être fait
+			-> Si il y a des dificultés/empechements pour la suite
+
+	-> Cela permet de connaître l'avancement de toute l'équipe :
+			-> Permet de pouvoir aider son/ses camarades dans le besoin
+			-> Permet d'être aidé par un ou plusieurs camarade(s) en cas de besoin
+
+	-> Durant la réunion (Scrum Meeting) on ne cherche pas à résoudre les problèmes, mais de les identifier et les exprimer.
+
+	-> Le Scrum Master a pour rôle d'apporter des solutions ou de déléguer à un autre membre de l'équipe la résolution des problèmes 			soulevés durant le Scrum Meeting
+	-> Le Scrum Master devra mettre à jour la Burndown Chart après chaque Scrum Meeting
+
+	
+A la fin de chaque sprint, on fait une démonstration au client des derniers développements, c'est le Sprint Review Meeting.
+	
+	-> Le Sprint Review Meeting permet de faire un bilan sur le Sprint qui vient de se finir, le fonctionnement de l'équipe et de savoir 			quoi changer pour améliorer l'efficacité de l'équipe.
+
+
+Cette méthode prône l'adaptabilité, La visibilité (évaluer les résultats du processus) et l'inspection (qui consiste à vérifier les écarts par rapport à l'objectif initial).
