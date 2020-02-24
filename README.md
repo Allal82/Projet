@@ -14,7 +14,7 @@
 
 - Diagramme de Gantt (ADRIEN) ->  Mise en place du sprint 1 et visualisation des tâches pour le sprint 2.
 
-- Diagramme de Déploiement (BENOÎT) -> Quasiment fini
+- Diagramme de Déploiement (BENOÎT) -> Terminé
 
 - Diagramme de Classe (Allal) -> Terminé
 
