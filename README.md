@@ -16,9 +16,9 @@
 
 - Diagramme de Déploiement (BENOÎT) -> Quasiment fini
 
-- Diagramme de Classe (Allal / Brice) -> En cours...
+- Diagramme de Classe (Allal) -> Terminé
 
-- Diagramme de Package (Brice / Allal) -> On verra plus tard
+- Diagramme de Package (Brice) -> En cours...
 
 - Rapport de groupe Drive (Google Doc pour que tout le monde puisse modifier quand il le souhaite)
   "https://drive.google.com/open?id=1RgVdPWGaqvwlrfaj8I2baTsDW14XNlXE"
