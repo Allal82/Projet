@@ -37,3 +37,14 @@
 / Visualisation de la structure des comptes admin et users \
 
 / Mise en place du drive et du rapport de groupe \
+
+                                                     *----Sprint n°2:----*
+
+ADRIEN -> / Gestion Base de Données \ /Traitement requêtes \ / Enregistrement/Lecture/suppression/ Séquences Jumeau Numérique \
+
+BENOIT -> / Création projet Symfony \ /Mise en place du serveur web \ /Création compte admin/users \ / Sécurité de l'application \ / Intégration infrastructure \
+
+BRICE -> 
+
+ALLAL ->
+
