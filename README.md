@@ -24,10 +24,6 @@
   "https://drive.google.com/open?id=1RgVdPWGaqvwlrfaj8I2baTsDW14XNlXE"
 
 
-=> BRICE :   
-
-/ Fiche Synthèse Scrum \
-
 => ADRIEN :
 
 => ALLAL :
@@ -38,13 +34,31 @@
 
 / Mise en place du drive et du rapport de groupe \
 
+=> BRICE :   
+
+/ Fiche Synthèse Scrum \
+
+
                                                      *----Sprint n°2:----*
 
-ADRIEN -> / Gestion Base de Données \ /Traitement requêtes \ / Enregistrement/Lecture/suppression/ Séquences Jumeau Numérique \
+=> ADRIEN : 
 
-BENOIT -> / Création projet Symfony \ /Mise en place du serveur web \ /Création compte admin/users \ / Sécurité de l'application \ / Intégration infrastructure \
+    / Gestion Base de Données \ 
+    / Traitement requêtes \ 
+    / Enregistrement/Lecture/suppression/ Séquences Jumeau Numérique \
 
-BRICE -> 
+=> ALLAL :
 
-ALLAL ->
+    
+    
+=> BENOIT : 
 
+    / Création projet Symfony \ 
+    / Mise en place du serveur web \ 
+    / Création compte admin/users \ 
+    / Sécurité de l'application \ 
+    / Intégration infrastructure \
+
+=> BRICE : 
+
+    
