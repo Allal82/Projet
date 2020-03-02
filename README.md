@@ -16,7 +16,7 @@
 
 - Diagramme de Déploiement (BENOÎT) -> Terminé
 
-- Diagramme de Classe (Allal) -> Terminé
+- Diagramme de Classe (Allal / Brice / Adrien / Benoît) -> Terminé
 
 - Diagramme de Package (Brice) -> En cours...
 
