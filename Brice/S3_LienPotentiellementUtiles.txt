@@ -5,9 +5,8 @@ https://threejs.org/editor/
 https://github.com/mrdoob/three.js/blob/dev/src/extras/core/Curve.js#L439
 
 
+LIENS du 10/03/2020 :
 
-
-MATIN !!!!
 
 https://www.qwant.com/?q=three.js+on+eclipse&client=ext-chrome-sb
 
@@ -17,3 +16,6 @@ https://github.com/mrdoob/three.js/tree/dev/src
 
 https://www.htmlgoodies.com/html5/other/create-an-static-html5-web-project-in-eclipse.html#fbid=k578QzmyAu2
 
+https://www.vogella.com/tutorials/JavaScript/article.html
+
+https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
