@@ -1,0 +1,10 @@
+                                            *----Avancement de l'interface de Symfony----*
+                                            
+    *--FAIT--*
+Système d'authentification des utilisateurs avec relation BDD.
+Les mot de passes des utilisateurs sont encrypté dans la BDD pour plus de sécurité.
+Système d'inscription de membres dans la BDD.
+
+    *--A FAIRE--*
+Bouton de déconnexion
+Rôle administrateur
