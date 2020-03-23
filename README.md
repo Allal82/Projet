@@ -51,6 +51,8 @@
 
 => ALLAL :
 
+    / Recherches concernant la réception des flux de données issus du fanuc \
+    / Réhabilitation avec Symfony avec un entraînement (projet Symfony + intégration du module ThreeJs \
     
     
 => BENOIT : 
