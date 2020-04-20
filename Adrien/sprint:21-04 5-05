@@ -1,0 +1,18 @@
+Ce que j'ai fait jusqu'à présent: 
+-j'ai implémenté le code permettant d'enregistrer une séquence, l'url de la séquence étant enregistrée en base de données
+-J'ai fait aussi en sorte de pouvoir sélectionner les séquences pouvoir les afficher ou les supprimer.
+
+
+Ce que je prévois de faire pendant les 15 prochains jours: 
+-je prévois de faire en sorte que plusieurs séquences que je sélectionne puissent être supprimées.
+-Je vais aussi faire en sorte que lorsque l'on enregistre une séquence, on nous demande un nom pour la séquence que l'on vient d'enregistrer.
+-Je vais aussi améliorer le code que j'ai fait.
+
+
+Ce qui fonctionne:
+-J'arrive à enregistrer une séquence, à l'afficher, à sélectionner une séquence et afficher et supprimer la séquence sélectionnée.
+-Quand j'enregistre une séquence, l'url est bien enregistrée dans la base de données.
+
+
+Ce qui ne fonctionne pas:
+-Pour l'instant je ne peux pas jouer une séquence, je ne suis pas encore à ce stade-là.
