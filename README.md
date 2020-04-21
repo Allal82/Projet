@@ -65,4 +65,27 @@
 
 => BRICE : 
 
+    / Visualisation du jumeau 3D \
+    / Intégration dans Symfony \
+
+                                                     *----Sprint n°3:----*
+=> ADRIEN : 
+
+    / Traitement des séquences enregistrés \
+    / Renommer une sequence \
+
+=> ALLAL :
     
+    / Traitement du flux de données \
+    / Serveur JavaScript \
+    
+=> BENOIT : 
+
+    / Mise en place de la fonction mot de passe oublié \
+    / Amélioration de l'ergonomie du site avec Bootstrap \
+    / Sécurité de l'application \
+
+=> BRICE : 
+
+    / Lecture des angles et application sur la vue 3D \
+    / Différent angles de vue du robot 3D \
