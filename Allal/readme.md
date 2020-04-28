@@ -11,3 +11,5 @@ Elaboration d'un serveur en javascript qui va servir de remplacement au robot gr
 
 Je suis sur un problème actuellement concernant la 1ère soltuion qui consiste, pour le client, à ne pas envoyer les valeurs d'angles qui sont vides ou égales à null car par rapport au code du serveur, ce dernier va stocker toutes les valeurs envoyées par le client. Cependant, comme j'ai mis une boucle for concernant les valeurs saisies par le client, c'est la dernière valeur correcte saisie par le client qui est visible et stockée par le serveur. Ainsi, si je n'arrive pas à corriger ce problème, j'essaierais de travailler sur l'issue avec laquelle le serveur pourrait envoyer la dernière saisie qu'il voit et qu'il a stocké.
 Une fois ce problème réglé, je me pencherais sur l'envoie de données au client.
+
+Pour voir le schéma looping_jumeau, il faut utiliser le logiciel que vous allez récupérer ici https://www.looping-mcd.fr
