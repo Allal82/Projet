@@ -1,0 +1,9 @@
+Modification du mot de passe en se basant sur l'ancien mot de passe :
+
+	https://symfony.com/doc/current/reference/constraints/UserPassword.html
+
+La protection CSRF:
+
+	https://geekco.fr/blog/mini-serie-creation-d-un-espace-membre-sur-symfony-4-1-5
+
+	https://symfony.com/doc/current/security/csrf.html
