@@ -1,3 +1,14 @@
+Documentation générale du composant "Security" de Symfony:
+
+	https://symfony.com/doc/current/security.html
+
+
+//************************************************************************************\\
+
+Formulaire de connexion:
+
+	https://symfony.com/doc/current/security/form_login_setup.html
+
 Modification du mot de passe en se basant sur l'ancien mot de passe :
 
 	https://symfony.com/doc/current/reference/constraints/UserPassword.html
