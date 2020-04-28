@@ -8,6 +8,10 @@ Documentation générale du composant "Security" de Symfony:
 Formulaire de connexion:
 
 	https://symfony.com/doc/current/security/form_login_setup.html
+	
+Bundle EasyAdmin avec Symfony (Pour la gestion des comptes par l'admin):
+
+	https://symfony.com/doc/master/bundles/EasyAdminBundle/index.html
 
 Modification du mot de passe en se basant sur l'ancien mot de passe :
 
