@@ -1,0 +1,15 @@
+Ce qui est opérationnel:
+
+-On peut sélectionner plusieurs séquences pour les supprimer grâce aux checkboxes.
+On peut afficher et renommer une seule séquence à la fois.
+-on peut enregistrer des séquences avec l'extension .json.
+
+Ce qui n'est pas fini:
+
+-quand je sélectionne une séquence et que j'appuie sur renommer, ça m'envoie sur la page pour la renommer,
+mais il y a un message me disant que la séquence a été renommée avant même que je la renomme.
+
+
+
+
+
